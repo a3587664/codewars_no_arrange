@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject1
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest1 
     {
         //private Tribonacci_Sequence_Test Tribonacci_Sequence_Test; 
 
